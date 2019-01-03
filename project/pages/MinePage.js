@@ -12,9 +12,10 @@ export default class MinePage extends BaseComponent {
     componentDidMount() {
         super.componentDidMount();
 
-        setTimeout(function () {
-            this.showToast('测试');
-        }.bind(this),1000);
+        // Toast示例
+        // setTimeout(function () {
+        //     this.showToast('测试');
+        // }.bind(this),1000);
     }
 
     componentWillUnmount() {

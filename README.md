@@ -1,8 +1,13 @@
 # RNApp
-基于React Navigation 3.x版本的通用Tabbar+Navigation框架
+基于React Navigation 3.x版本的通用(Tabbar+Navigation)代码示例。
 
 # 安装
-1. git clone git@github.com:Handby/RNApp.git
-2. cd RNApp/
-3. npm install
-4. enjoy it!
+如果你有 bug 反馈或其他任何建议，欢迎提 issue 给我。
+
+```
+git clone git@github.com:Handby/RNApp.git
+```
+确保你在项目目录下执行
+```
+npm install
+```
