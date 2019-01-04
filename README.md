@@ -2,8 +2,6 @@
 基于React Navigation 3.x版本的通用(Tabbar+Navigation)代码示例。
 
 # 安装
-如果你有 bug 反馈或其他任何建议，欢迎提 issue 给我。
-
 ```
 git clone git@github.com:Handby/RNApp.git
 ```
@@ -11,3 +9,7 @@ git clone git@github.com:Handby/RNApp.git
 ```
 npm install
 ```
+```
+react-native link
+```
+如果你有 bug 反馈或其他任何建议，欢迎提 issue 给我。
